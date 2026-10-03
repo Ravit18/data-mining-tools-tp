@@ -1,0 +1,7 @@
+# Dependencias adicionales para reproducir los notebooks y volver a descargar los datos.
+-r requirements.txt
+matplotlib==3.11.2
+seaborn==0.13.2
+ucimlrepo==0.0.7
+ipykernel==7.3.0
+nbconvert==7.17.1

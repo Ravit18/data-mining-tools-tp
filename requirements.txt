@@ -1,0 +1,7 @@
+# Dependencias para ejecutar la aplicación (Streamlit Community Cloud instala este archivo).
+# scikit-learn debe ser la misma versión con la que se guardó models/modelo_preliminar.joblib.
+pandas==3.0.5
+numpy==2.5.2
+scikit-learn==1.9.1
+joblib==1.6.0
+streamlit==1.65.0
