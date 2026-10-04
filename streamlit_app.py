@@ -65,7 +65,7 @@ def preparar_entrada(df, columnas):
 art = cargar_modelo()
 pipeline, umbral, columnas = art["pipeline"], art["umbral"], art["columnas_entrada"]
 
-st.title("📞 Priorización de clientes para depósitos a plazo")
+st.title("Priorización de clientes para depósitos a plazo")
 st.caption(
     "Proyecto integrador – Data Mining Tools (CC209), UPC. "
     f"Modelo: {art['modelo']} entrenado con el dataset Bank Marketing (UCI). "
