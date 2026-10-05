@@ -148,4 +148,4 @@ Si se vuelve a entrenar el modelo con otra versión de scikit-learn, hay que act
 
 ## Uso de herramientas de IA generativa
 
-Se usó un asistente de IA (Claude, de Anthropic) como apoyo técnico para estructurar el repositorio, escribir el código de los módulos de `src/` y de los notebooks. El grupo revisó y validó los resultados y es responsable del análisis y las conclusiones.
+Se usó un asistente de IA (Claude, de Anthropic) como apoyo técnico para estructurar el repositorio, escribir el código de los módulos de `src/` y de los notebooks, y como apoyo en la redacción de borradores de las interpretaciones. El grupo revisó y validó los resultados y es responsable del análisis y las conclusiones.
